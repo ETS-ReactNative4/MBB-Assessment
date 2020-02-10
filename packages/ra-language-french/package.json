@@ -1,0 +1,22 @@
+{
+    "name": "ra-language-french",
+    "version": "3.2.0",
+    "description": "My messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/marmelab/react-admin.git"
+    },
+    "keywords": [
+        "react",
+        "react-admin",
+        "admin-on-rest",
+        "translation"
+    ],
+    "author": "GiSpatial",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/gispatial/react-backend/issues"
+    },
+    "homepage": "https://github.com/gispatial/react-backend#readme"
+}
