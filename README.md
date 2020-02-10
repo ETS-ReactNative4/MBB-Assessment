@@ -51,7 +51,7 @@ Bugfix PRs that don't break BC should be made against **master**. All other PRs 
 
 ## Step by Step Installation
 
-First this react component need to be deploy with the rest Expo React-Native here https://github.com/gispatial/rn-mobile-app is the final stage for building the package with Expo. 
+First this react component need to be deploy by following below steps. At the end of this Readme you will see a second GitHub link for deploying the end product code build on Native Expo.
 
 ```sh
 npm install react-admin
@@ -264,9 +264,9 @@ make prettier
 
 However, these commands are ran automatically at each commit so you shouldn't have to worry about them.
 
-### Documentation
+### Final Deploy 
 
-If you want to contribute to the documentation, install [jekyll](https://jekyllrb.com/docs/home/), then call
+After you have run this codebase and it will run on localhost http://localhost:3000, next step is to deploy the Actual React-Native code on Expo install [RN-Mobile-App](https://github.com/gispatial/rn-mobile-app), then call
 
 ```sh
 make doc
