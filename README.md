@@ -11,7 +11,7 @@ React-Native | Redux | GraphQL Login &amp; Logout Crud ToDo App for Maybank by R
 ![ScreenShot Crud ToDo App](https://github.com/gispatial/MBB-Assessment/blob/master/docs/img/gallery.png)
 ![ScreenShot Crud ToDo App](https://github.com/gispatial/MBB-Assessment/blob/master/docs/img/reviews.png)
 
-## A backend framework for react-native applications running in the browser on top of REST/GraphQL APIs, Redux using ES6, [React](https://facebook.github.io/react/) and [Material Design](https://material.io/). Previously named [admin-on-rest](https://github.com/marmelab/admin-on-rest). Open sourced and maintained by [marmelab](https://marmelab.com/).
+## A backend CRUD framework for react-native applications running in the mobile browser(safari/chrome) on top of REST/GraphQL APIs as React Wrapper for RN Expo, Implementation of Redux state using ES6, with no Auth but Fake Rest Api's Data [React](https://facebook.github.io/react/) and [Material Design](https://material.io/). Previously named [admin-on-rest](https://github.com/marmelab/admin-on-rest). Open sourced and maintained by [marmelab](https://marmelab.com/).
 
 [Home page](https://marmelab.com/react-admin/) - [Documentation](https://marmelab.com/react-admin/Tutorial.html) - [Demo](https://marmelab.com/react-admin-demo/) - [Blog](https://marmelab.com/en/blog/#react-admin) - [Releases](https://github.com/marmelab/react-admin/releases) - [Support](http://stackoverflow.com/questions/tagged/react-admin)
 
