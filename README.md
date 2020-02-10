@@ -278,4 +278,4 @@ yarn start or expo start
 
 And then browse to [http://localhost:4000/](http://localhost:4000/)
 
-### A Job Test Assessment for React-Native Engineer Roles for R. Aidy a.k.a JustEd - GiSpatial/ React7.Tech(Asia) from Malayan Banking (Malaysia) .Bhd
+### A Malayan Banking Job Test Assessment for React-Native Engineer Roles by R. Aidy a.k.a JustEd - GiSpatial/ React7.Tech(Asia) http://react7.tech/
