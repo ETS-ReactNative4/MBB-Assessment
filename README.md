@@ -62,7 +62,7 @@ Read the [Tutorial](http://marmelab.com/react-admin/Tutorial.html) for a 15 minu
 ## ScreenShots
 ![ScreenShot Crud ToDo App](https://github.com/gispatial/MBB-Assessment/blob/master/docs/img/login.png)
 ![ScreenShot Crud ToDo App](https://github.com/gispatial/MBB-Assessment/blob/master/docs/img/home.png)
-![ScreenShot Crud ToDo App](https://github.com/gispatial/MBB-Assessment/blob/master/docs/img/login.png)
+![ScreenShot Crud ToDo App](https://github.com/gispatial/MBB-Assessment/blob/master/docs/img/menunav.png)
 ![ScreenShot Crud ToDo App](https://github.com/gispatial/MBB-Assessment/blob/master/docs/img/login.png)
 ![ScreenShot Crud ToDo App](https://github.com/gispatial/MBB-Assessment/blob/master/docs/img/login.png)
 ![ScreenShot Crud ToDo App](https://github.com/gispatial/MBB-Assessment/blob/master/docs/img/login.png)
