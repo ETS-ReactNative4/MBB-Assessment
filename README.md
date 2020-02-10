@@ -278,12 +278,4 @@ yarn start or expo start
 
 And then browse to [http://localhost:4000/](http://localhost:4000/)
 
-## License
-
-React-admin is licensed under the [MIT License](https://github.com/marmelab/react-admin/blob/master/LICENSE.md), sponsored and supported by [marmelab](http://marmelab.com).
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmarmelab%2Freact-admin.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmarmelab%2Freact-admin?ref=badge_large)
-
-## Donate
-
-This library is free to use, even for commercial purpose. If you want to give back, please talk about it, [help newcomers](https://stackoverflow.com/questions/tagged/react-admin), or contribute code. But the best way to give back is to **donate to a charity**. We recommend [Doctors Without Borders](http://www.doctorswithoutborders.org/).
+### A Test Assessment for GiSpatial/ React7.Tech(Asia) Frontend Fullstack Software Engineer - R.Aidy @ JustEd
