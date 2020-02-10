@@ -38,16 +38,21 @@ React-Native | Redux | GraphQL Login &amp; Logout Crud ToDo App for Maybank by R
 
 Bugfix PRs that don't break BC should be made against **master**. All other PRs (new features, bugfix with BC break) should be made against **next**.
 
-## Installation
+## Step by Step Installation
 
-React-admin is available from npm. You can install it (and its required dependencies)
-using:
+First this react component need to be deploy with the rest Expo React-Native here https://github.com/gispatial/rn-mobile-app is the final stage for building the package with Expo. 
 
 ```sh
 npm install react-admin
 
 #or
-yarn add react-admin
+yarn add react-admin 
+
+after all have been install
+yarn start 
+
+#then
+yarn start
 ```
 
 ## Documentation
