@@ -266,10 +266,14 @@ However, these commands are ran automatically at each commit so you shouldn't ha
 
 ### Final Deploy 
 
-After you have run this codebase and it will run on localhost http://localhost:3000, next step is to deploy the Actual React-Native code on Expo install [RN-Mobile-App](https://github.com/gispatial/rn-mobile-app), then call
+After you have run this codebase and it will run on localhost http://localhost:3000, next step is to deploy the Actual React-Native code on Expo install [CLICK-HERE_To_RN-Mobile-App](https://github.com/gispatial/rn-mobile-app), then run
 
 ```sh
-make doc
+yarn install
+
+# and
+
+yarn start or expo start
 ```
 
 And then browse to [http://localhost:4000/](http://localhost:4000/)
