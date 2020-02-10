@@ -60,7 +60,7 @@ yarn start
 Read the [Tutorial](http://marmelab.com/react-admin/Tutorial.html) for a 15 minutes introduction. After that, head to the [Documentation](http://marmelab.com/react-admin/index.html), or checkout the [source code of the demo](https://github.com/marmelab/react-admin-demo) for an example usage.
 
 ## ScreenShots
-<img src"https://github.com/gispatial/MBB-Assessment/blob/master/docs/img/Screenshot%202020-02-10%20at%208.34.46%20AM.png">
+![ScreenShot Crud ToDo App](https://github.com/gispatial/MBB-Assessment/blob/master/docs/img/Screenshot%202020-02-10%20at%208.34.46%20AM.png)
 ## At a Glance
 
 ```jsx
