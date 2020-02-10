@@ -60,13 +60,13 @@ yarn start
 Read the [Tutorial](http://marmelab.com/react-admin/Tutorial.html) for a 15 minutes introduction. After that, head to the [Documentation](http://marmelab.com/react-admin/index.html), or checkout the [source code of the demo](https://github.com/marmelab/react-admin-demo) for an example usage.
 
 ## ScreenShots
+![ScreenShot Crud ToDo App](https://github.com/gispatial/MBB-Assessment/blob/master/docs/img/splash.png)
 ![ScreenShot Crud ToDo App](https://github.com/gispatial/MBB-Assessment/blob/master/docs/img/login.png)
 ![ScreenShot Crud ToDo App](https://github.com/gispatial/MBB-Assessment/blob/master/docs/img/home.png)
 ![ScreenShot Crud ToDo App](https://github.com/gispatial/MBB-Assessment/blob/master/docs/img/menunav.png)
 ![ScreenShot Crud ToDo App](https://github.com/gispatial/MBB-Assessment/blob/master/docs/img/update.png)
 ![ScreenShot Crud ToDo App](https://github.com/gispatial/MBB-Assessment/blob/master/docs/img/category.png)
 ![ScreenShot Crud ToDo App](https://github.com/gispatial/MBB-Assessment/blob/master/docs/img/gallery.png)
-![ScreenShot Crud ToDo App](https://github.com/gispatial/MBB-Assessment/blob/master/docs/img/login.png)
 ![ScreenShot Crud ToDo App](https://github.com/gispatial/MBB-Assessment/blob/master/docs/img/login.png)
 ![ScreenShot Crud ToDo App](https://github.com/gispatial/MBB-Assessment/blob/master/docs/img/login.png)
 ![ScreenShot Crud ToDo App](https://github.com/gispatial/MBB-Assessment/blob/master/docs/img/login.png)
